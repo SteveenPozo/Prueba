@@ -69,6 +69,8 @@ public class DibujarLineas extends Application {
         root.getChildren().add(l11);
         root.getChildren().add(l12);
         
+        System.out.println("Este programa crea un cubo");
+     
         primaryStage.setTitle("Líneas");
         primaryStage.setScene(scene);
         primaryStage.show(); 
