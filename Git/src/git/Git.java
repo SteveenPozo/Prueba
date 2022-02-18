@@ -19,10 +19,11 @@ public class Git {
         int num1 = 2;
         int num2 = 6;
         
-        int Suma = num1 + num2;
-        System.out.println("La suma es: " + Suma);
+        int suma = num1 + num2;
+        System.out.println("La suma es: " + suma);
         
-        
+        int division = num2 / num1;
+        System.out.println("La division es: " + division);
     }
     
 }
