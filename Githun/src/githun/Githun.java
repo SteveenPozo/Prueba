@@ -15,7 +15,7 @@ public class Githun {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Nuevo proyecto");
+        System.out.println("Nuevo proyecto A");
     }
     
 }
