@@ -16,6 +16,13 @@ public class Git {
      */
     public static void main(String[] args) {
         System.out.println("Nuevo proyecto");
+        int num1 = 2;
+        int num2 = 6;
+        
+        int Suma = num1 + num2;
+        System.out.println("La suma es: " + Suma);
+        
+        
     }
     
 }
